@@ -1,0 +1,9 @@
+job_id,job_title,company,description,required_skills
+1,Data Analyst,TechCorp,"Analyze business data and create reports and dashboards using SQL and Python","Python,SQL,Excel,Power BI,Tableau,Statistics"
+2,Data Scientist,DataWorks,"Build machine learning models and perform statistical analysis on large datasets","Python,SQL,Machine Learning,Statistics,Pandas,NumPy,Scikit-learn"
+3,Business Analyst,GlobalTech,"Analyze business requirements and provide data-driven insights to stakeholders","Excel,SQL,Power BI,Tableau,Business Analysis,Communication"
+4,Machine Learning Engineer,AI Solutions,"Develop and deploy machine learning models and build AI applications","Python,Machine Learning,Deep Learning,Scikit-learn,TensorFlow,SQL"
+5,BI Developer,InsightTech,"Develop business intelligence solutions and interactive dashboards","SQL,Power BI,Tableau,Excel,DAX,Data Modeling"
+6,Python Developer,SoftTech,"Develop Python applications and APIs and work with databases","Python,SQL,Flask,Django,Git,REST API"
+7,Data Engineer,CloudData,"Build data pipelines and manage large-scale data processing systems","Python,SQL,ETL,Data Warehousing,PySpark,AWS"
+8,AI Engineer,FutureAI,"Develop AI applications using machine learning and natural language processing","Python,Machine Learning,NLP,Deep Learning,TensorFlow,PyTorch"
